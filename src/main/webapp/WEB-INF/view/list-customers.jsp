@@ -80,10 +80,7 @@
 	
 	
 <br></br>
-<!-- <c:forEach var = "i" items="1,4,5,6,7,8,9">
-    Item <c:out value = "No. ${i}"/><p>
-</c:forEach> 
--->
+
 
 <br></br>
 

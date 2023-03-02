@@ -39,7 +39,7 @@
         <property name="driverClass" value="com.mysql.cj.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false&amp;serverTimezone=UTC" />
         <property name="user" value="root" />
-        <property name="password" value="MysqL2022J" /> 
+        <property name="password" value="root" /> 
 
         <!-- these are connection pool properties for C3P0 -->
 		<property name="initialPoolSize" value="5"/>
